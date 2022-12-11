@@ -1,0 +1,10 @@
+# Default ignored files
+/db/
+/grey*/
+/incr*/
+/out*/
+/sim*/
+adc/*
+!adc/synthesis
+adc/synthesis/*
+!adc/synthesis/adc.qip

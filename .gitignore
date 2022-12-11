@@ -1,0 +1,8 @@
+Python/.idea/
+Python/__pycache__/
+sim/modelsim/wave_*
+sim/modelsim/*.wlf
+sim/modelsim/*.ver
+sim/modelsim/rtl_work/
+Python/*.bmp
+source/ips/*.cmp
